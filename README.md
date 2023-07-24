@@ -25,7 +25,7 @@ Train the constructed CNN model using the training dataset. Adjust the batch siz
 
 #### Install all the required libraries for the code
 
-```http
+```
   pip install requirements.txt
 ```
 
